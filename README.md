@@ -54,7 +54,7 @@ chmod +x passwordgenerator
 
 ## 📸 Screenshot
 
-![Passgen Screenshot](passgen/passgen-screenshot.png)
+![Passgen Screenshot](passgen-screenshot.png)
 
 ### Example
 
